@@ -1,7 +1,7 @@
 # React-todo-list
 A simple to do application using React.js
 
-# [Demo](gokulkrishh.github.io/demo/ReactJS/todo-list/)
+# [Demo](https://gokulkrishh.github.io/demo/ReactJS/todo-list/)
 
 ![React-to-list](https://raw.githubusercontent.com/gokulkrishh/React-todo-list/master/app/images/React-Todo-List.png "React to do list")
 
