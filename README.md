@@ -1,5 +1,7 @@
 # React-todo-list
-A simple application which uses React.js to create to do list
+A simple to do application using React.js
+
+![React-to-list](https://raw.githubusercontent.com/gokulkrishh/React-google-maps/master/app/images/React-Todo-List.png.png "React to do list")
 
 ## Instruction to run the application
 
